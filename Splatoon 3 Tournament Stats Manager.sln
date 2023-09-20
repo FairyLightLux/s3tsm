@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Splatoon 3 Tournament Stats Manager", "Splatoon 3 Tournament Stats Manager\Splatoon 3 Tournament Stats Manager.pyproj", "{2728659B-64D1-4B4C-8E62-25730FD92800}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9CA8220C-FD77-427C-B76A-63B48EA56457}"
+	ProjectSection(SolutionItems) = preProject
+		Splatoon 3 Tournament Stats Manager\Project Log.txt = Splatoon 3 Tournament Stats Manager\Project Log.txt
+		Splatoon 3 Tournament Stats Manager\README.md = Splatoon 3 Tournament Stats Manager\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2728659B-64D1-4B4C-8E62-25730FD92800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2728659B-64D1-4B4C-8E62-25730FD92800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDA9378-0D55-49B1-842E-9A8224E20B18}
+	EndGlobalSection
+EndGlobal
